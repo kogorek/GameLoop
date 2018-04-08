@@ -1,0 +1,7 @@
+Simple gameloop. 
+Will be done with SDL2.
+
+Features:
+* Fixed update
+* Separate game scenes
+* Transmitting information between scenes using interface iSceneMessage.
